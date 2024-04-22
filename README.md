@@ -7,7 +7,7 @@ This project involves developing an intelligent chatbot that uses Natural Langua
 
 - `NLP`: It stands for Natural Language Processing which is a field of artificial intelligence that focuses on the interaction between computers and humans using natural language. NLP enables computers to understand, interpret, and generate human language in a valuable way. 
 
--`Entity Recognition`: Entity recognition, also known as named entity recognition (NER), is a natural language processing task that involves identifying and categorizing key information (entities) within a text, such as names of persons, organizations, locations, dates, and other specific types of information
+- `Entity Recognition`: Entity recognition, also known as named entity recognition (NER), is a natural language processing task that involves identifying and categorizing key information (entities) within a text, such as names of persons, organizations, locations, dates, and other specific types of information
 
 - `TensorFlow`: TensorFlow empowers users to explore, experiment, and innovate in the field of machine learning, enabling the development of intelligent applications that can solve diverse problems across different domains.
 
@@ -33,10 +33,12 @@ STEPS TAKEN
 - Train the chatbot
 ***Ensure building and training the NLP model using the selected framework.***
 
-5. Implement Sentiment Analysis: Integrate sentiment analysis techniques to determine sentiment (positive, negative, or neutral) understand the emotional tone of user queries, and provide appropriate responses.
+5. `Implement Sentiment Analysis`: Integrate sentiment analysis techniques to determine sentiment (positive, negative, or neutral) understand the emotional tone of user queries, and provide appropriate responses.
 
-6. Incorporate Entity Recognition: Implement entity recognition to identify and extract specific entities such as names, dates, and locations from user queries.
+6. `Incorporate Entity Recognition`: Implement entity recognition to identify and extract specific entities such as names, dates, and locations from user queries.
 
-7. Testing and Evaluation: Test the chatbot with a variety of queries to ensure that it accurately understands and responds to user input. Evaluate its performance and make adjustments when needed. `Adam Optimizer` and `Accuracy metrics` was used to evaluate the model's performance. 
+7. `Testing and Evaluation`: Test the chatbot with a variety of queries to ensure that it accurately understands and responds to user input. Evaluate its performance and make adjustments when needed. `Adam Optimizer` and `Accuracy metrics` was used to evaluate the model's performance.
 
-8. Deployment: Deploy your chatbot to a suitable platform or environment where users can interact with it. Streamlit was used to deploy the chatbot. 
+***Two environments were created; one containing the chatbot algorithm 'Intelligent_chatbot.py` and the other contains the deployment of the chatbot using Streamlit app 'chatbot_app.py`***
+
+9. `Deployment`: Deploy your chatbot to a suitable platform or environment where users can interact with it. Streamlit was used to deploy the chatbot. 
