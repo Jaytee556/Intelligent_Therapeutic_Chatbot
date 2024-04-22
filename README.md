@@ -16,6 +16,7 @@ This project involves developing an intelligent chatbot that uses Natural Langua
 ## ABOUT THE DATA
 The dataset available is a comprehensive collection of conversations related to mental health. It encompasses various conversation types, including basic exchanges, frequently asked questions about mental health, classical therapy discussions, and general advice given to individuals facing anxiety and depression.
 So we are training the chatbot model to emulate a therapist. We are building chatbots capable of providing emotional support to individuals experiencing anxiety and depression. 
+
 `Dataset Source`: https://www.kaggle.com/code/jocelyndumlao/chatbot-for-mental-health-conversations/input
 
 STEPS TAKEN
