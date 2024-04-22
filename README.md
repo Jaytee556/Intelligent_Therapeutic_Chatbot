@@ -40,6 +40,6 @@ STEPS TAKEN
 
 7. `Testing and Evaluation`: Test the chatbot with a variety of queries to ensure that it accurately understands and responds to user input. Evaluate its performance and make adjustments when needed. `Adam Optimizer` and `Accuracy metrics` was used to evaluate the model's performance.
 
-***Two environments were created; one containing the chatbot algorithm 'Intelligent_chatbot.py` and the other contains the deployment of the chatbot using Streamlit app 'chatbot_app.py`***
+8. `Deployment`: Deploy your chatbot to a suitable platform or environment where users can interact with it. Streamlit was used to deploy the chatbot.
 
-9. `Deployment`: Deploy your chatbot to a suitable platform or environment where users can interact with it. Streamlit was used to deploy the chatbot. 
+***Two environments were created; one containing the chatbot algorithm 'Intelligent_chatbot.py` and the other contains the deployment of the chatbot using Streamlit app 'chatbot_app.py`***
