@@ -42,4 +42,4 @@ STEPS TAKEN
 
 8. `Deployment`: Deploy your chatbot to a suitable platform or environment where users can interact with it. Streamlit was used to deploy the chatbot.
 
-***Two environments were created; one containing the chatbot algorithm 'Intelligent_chatbot.py` and the other contains the deployment of the chatbot using Streamlit app 'chatbot_app.py`***
+***Two environments were created; one containing the chatbot algorithm `Intelligent_chatbot.py` and the other contains the deployment of the chatbot using Streamlit app `chatbot_app.py`***
