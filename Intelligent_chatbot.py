@@ -165,9 +165,9 @@ def recognize_entities(text):
     return entities
 
 
-# Function for generating a response based on sentiment, entities, and context
+# Function for generating a response based on sentiment and entities
 def generate_response(sentiment, entities, intents_json):
-    # Placeholder for the actual logic to generate a response based on sentiment, entities, and context 
+    # Placeholder for the actual logic to generate a response based on sentiment and entities
     if sentiment == "positive" and "greeting" in entities:
         response = "Hello! How can I assist you today?"
     else:
