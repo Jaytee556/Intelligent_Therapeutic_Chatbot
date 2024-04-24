@@ -3,6 +3,7 @@ import nltk #for natural language processing
 from nltk.stem import WordNetLemmatizer #for lemmatization 
 nltk.download('punkt')
 nltk.download('wordnet')
+nltk.download('vader_lexicon')
 import numpy as np #for numerical computation in python
 from tensorflow.keras import preprocessing #for building the models
 import tensorflow as tf #used for deepl learning and machine learning tasks
