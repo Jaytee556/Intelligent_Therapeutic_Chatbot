@@ -1,6 +1,7 @@
 import json #for loading json file
 import nltk #for natural language processing
 from nltk.stem import WordNetLemmatizer #for lemmatization 
+nltk.download('punkt')
 import numpy as np #for numerical computation in python
 from tensorflow.keras import preprocessing #for building the models
 import tensorflow as tf #used for deepl learning and machine learning tasks
