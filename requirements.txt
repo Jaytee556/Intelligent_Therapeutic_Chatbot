@@ -2,7 +2,6 @@ streamlit
 nltk
 tensorflow
 keras
-json
 time
 pickle
 spacy
