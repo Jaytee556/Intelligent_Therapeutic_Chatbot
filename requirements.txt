@@ -2,7 +2,5 @@ streamlit
 nltk
 tensorflow
 keras
-pickle
 spacy
-datetime
 numpy
