@@ -4,3 +4,4 @@ tensorflow
 keras
 spacy
 numpy
+en_core_web_sm
